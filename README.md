@@ -11,7 +11,7 @@
 <h1 align="center">👋 Hii I'm Mouad</h1>
 
 <p align="center">
-  Computer Engineering Student @ EST Safi <br/>
+  Computer Engineering Student at EST Safi <br/>
   Web Development • Networking • Cybersecurity
 </p>
 
