@@ -1,124 +1,79 @@
-<!-- ===================== -->
-<!--        BANNER         -->
-<!-- ===================== -->
+<!-- BANNER PLACEHOLDER - Add your banner image below this line -->
+<!-- ![Your Banner](https://your-banner-url-here.png) -->
 
-<p align="center">
-  <!-- Replace this later with your banner image -->
-  <!-- <img src="https://your-banner-link.png" alt="Banner" /> -->
-</p>
+# 💫 About Me  
+Hi, I'm Mouad 👋<br><br>
+Computer Engineering student at EST Safi with interests in **web development**, **networking**, and **cybersecurity**.
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mouadelw&icon=0&color=0" />
-</p>
+🚀 **What I Do**  
+- Build full-stack web applications (React, PHP, MySQL)  
+- Work with Linux systems and network services (DNS, DHCP)  
+- Develop small security-related tools and scripts  
 
----
+🛠 **Tech Stack**  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: PHP, MySQL  
+- **Systems & Network**: Linux, TCP/IP, DNS, DHCP  
+- **Tools**: Git, GitHub, Vercel  
 
-<h1 align="center">Hi, I'm Mouad 👋</h1>
+📌 **Projects**  
+- **Library Management System** – Full-stack web app  
+- **Notes App (Google Keep style)** – Modern UI, CRUD features  
+- **Encryption Tool** – Text encryption/decryption application  
 
-<p align="center">
-  Computer Engineering student at <strong>EST Safi</strong><br/>
-  Web Development • Networking • Cybersecurity
-</p>
+# 💻 Tech Stack  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
----
+# 📊 GitHub Stats  
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=mouadelw&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=mouadelw&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadelw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💫 About Me
+</div>
 
-<p align="center">
-I am a Computer Engineering student with a strong interest in building web applications,
-working with Linux-based systems, and understanding networking and cybersecurity concepts.
-</p>
+### ✍️ Random Dev Quote  
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+</div>
 
-## 🚀 What I Do
+### 🔝 Top Contributed Repos  
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=mouadelw&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="center">
-• Build full-stack web applications (React, PHP, MySQL)<br/>
-• Work with Linux systems and network services (DNS, DHCP)<br/>
-• Develop small security-related tools and scripts
-</p>
+</div>
 
----
+<br>
 
-## 🛠 Tech Stack
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m__mouad__e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouad-elwarrach-9727b0301/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouad.elwarrach00@gmail.com)
 
-<p align="center">
+<br><br>
 
-<strong>Frontend</strong><br/>
-HTML • CSS • JavaScript • React • TypeScript<br/><br/>
+[![](https://visitcount.itsvg.in/api?id=mouadelw&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<strong>Backend</strong><br/>
-PHP • MySQL • Node.js<br/><br/>
-
-<strong>Systems & Networking</strong><br/>
-Linux • TCP/IP • DNS • DHCP • Apache<br/><br/>
-
-<strong>Tools</strong><br/>
-Git • GitHub • GitLab • Vercel • Figma • Notion
-
-</p>
-
----
-
-## 📌 Projects
-
-<p align="center">
-<strong>Library Management System</strong><br/>
-Full-stack web application for managing books, students, and loans.<br/><br/>
-
-<strong>Notes App (Google Keep style)</strong><br/>
-Modern UI with CRUD functionality.<br/><br/>
-
-<strong>Encryption Tool</strong><br/>
-Text encryption and decryption application.
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouadelw&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mouadelw&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadelw&theme=dark&hide_border=false&layout=compact" />
-</p>
+</div>
 
 ---
-
-## ✍️ Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mouadelw&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🌐 Contact Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/mouad-elwarrach-9727b0301">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/m__mouad__e">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:mouad.elwarrach00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
