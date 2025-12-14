@@ -3,12 +3,12 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="img/banner.png" alt="My Banner" width="800"/>
+  <img src="img/banner.png" alt="My Banner" width="900" height="300"/>
 </p>
 
 
 
-<h1 align="center">Mouad</h1>
+<h1 align="center">👋 Hii I'm Mouad</h1>
 
 <p align="center">
   Computer Engineering Student @ EST Safi <br/>
