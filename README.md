@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="img/bannerr.png" alt="My Banner" width="1000" height="400"/>
+  <img src="img/banne.png" alt="My Banner" width="1000" height="400"/>
 </p>
 
 
