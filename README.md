@@ -3,8 +3,9 @@
 <!-- ===================== -->
 
 <p align="center">
-  <!-- Add your banner image here later -->
+  <img src="img/banner.png" alt="My Banner" width="800"/>
 </p>
+
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=mouadelw&icon=0&color=0" />
