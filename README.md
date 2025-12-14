@@ -7,11 +7,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mouadelw&icon=0&color=0" />
-</p>
-
----
 
 <h1 align="center">Mouad</h1>
 
